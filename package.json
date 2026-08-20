@@ -1,1 +1,12 @@
-
+{
+  "name": "render-paas-demo",
+  "version": "1.0.0",
+  "description": "Demo PaaS with Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
